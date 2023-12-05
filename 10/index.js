@@ -8,5 +8,4 @@ const data = os.platform();
 // const data = os.totalmem();             // amount of total memory(RAM) in bytes4
 // console.log(data/1024/1024/1024);
 
-
 console.log(data);
